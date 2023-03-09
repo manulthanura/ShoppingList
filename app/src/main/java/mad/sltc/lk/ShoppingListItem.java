@@ -34,5 +34,8 @@ public class ShoppingListItem {
     public void setEmptyItem(boolean emptyItem) {
         this.emptyItem = emptyItem;
     }
+
+    public void setPurchased(Object isChecked) {
+    }
 }
 
